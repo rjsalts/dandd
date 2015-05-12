@@ -1,0 +1,50 @@
+Name: Grwl Age: 26 Class: Ranger
+Alignment: Chaotic Good
+Race: Human Level: 10 Exp: 325,001 THACO: 10
+
+Str: 15
+Dex: 11
+Con: 17
+Int: 13
+Wis: 15
+Chr: 8
+
+HP: 115 | 118 AC: 0
+
+Equipment
+=========
+Shield +1
+Chainmail +3
+Dagger +1
+Bastard Sword +2
+Potion of polymorph self
+Necklace of adaptation
+Rope of climbing 60' long
+Backpack
+1 week of iron rations
+Heavy war horse
+leather barding
+flint and steel
+hooded lantern
+2 flasks of oil
+hand axe
+hammer
+5 pitons
+small sack
+large sack
+small metal mirror
+scroll case
+3 sheets of paper
+bedroll
+grappling hook
+small tent
+
+
+Loot
+=========
+
+
+Experience
+=========
+Killing both flying lion things
+

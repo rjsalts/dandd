@@ -1,0 +1,61 @@
+Name: Helga Age: 20 from Vestland of the house Ottar, king's neice, father is Jarl Eric Goodmanson, Landersfjord
+Religion: Freya (devout) Alignment: Chaotic Good
+Race: Human Level: 2 XP: 2000 THACO: 19
+Height: 5' 10" Weight: 167 lb Light brown hair, braided
+Class: Fighter -1 AC bonus AC: 2
+
+Str: 15
+Int: 13 
+Dex: 10
+Con: 13
+Wis: 17 +3 magical defense adj
+Chr: 12
+
+HP: 14 / 14
+
+Weapon Proficiencies: (4) Bastard sword, Long bow (spec: +1 attack, pb 30' +2 dmg, shoot at start of round, 5/2 attacks), Dagger
+Non-weapon Proficiencies: (6) Riding (land based), Norderner, Thyatian, Glantri, Animal Handling, Heraldry
+
+Equipment: 9gp - 8sp
+Plate mail 		( 50 lbs )
+Bastard sword		( 10 lbs, sp 6 , 1d8 dmg s-m, 1d12 dmg l )
+	- 2 hand		( sp 8 , 2d4 dmg s-m, 2d8 dmg l )
+Long bow		( 3 lbs, sp 8 )
+	- flight	( *, 1d6 dmg s-m, 1d6 dmg l )
+	- sheaf		( *, 1d8 dmg s-m, 1d8 dmg l )
+3 Quivers		( 3 lbs, 2 flight 1 sheaf )
+Backpack		( 2 lbs )
+Dry rations x 10	( 10 lbs )
+Small Belt pouch	( 1/2 lb )
+Heavy War Horse		( 0 - 260 base, 261 - 390, 391 - 520 )
+Saddle			( 35 lbs )
+Oil x 5			( 5 lb )
+50' Rope		( 20 lbs )
+Torch x 5		( 5 lb )
+Flint and steel		( * )
+Small metal mirror	( * )
+Small tent		( 10 lbs )
+Chalk			( * )
+Holy item		( * )
+Water skin		( 1 lb )
+Bedroll			( 3 lbs )
+Pants			( * )
+Shirt			( * )
+Pitons x 6		( 3 lbs )
+Paper x 3		( ** )
+Scroll case		( 1/2 lb )
+Riding Boots		( * )
+Leather barding		( 60 lbs )
+
+Marina Flavia Publicus
+
+Darga - dwarf
+Emily - halfling
+Maxala - cleric
+
+
+Arthane Stormchild - centaur
+
+Vilarum -
+
+

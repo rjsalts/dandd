@@ -1,0 +1,130 @@
+Name: Javert Age: 28 Class: Magic user
+Alignmet: Neutral Good
+Race: Human Level: 10 Exp: 250,001 THACO: 19 
+
+Str: 15 
+Dex: 8
+Con: 15
+Int: 16
+Wis: 10
+Chr: 12
+
+HP: 45 | 50 AC: 4
+
+Equipment
+=========
+Bracers of AC 6
+Ring of protection +2
+Dagger +2
+Scroll - confusion, haste
+Wand of negation (30 charges)
+Brooch of shielding
+Boots of levitation
+Backpack
+1 week of iron rations
+Flint and steel
+Hooded lantern
+2 flasks of oil
+hand axe
+hammer
+pitons
+small sack
+large sack
+small metal mirror
+scroll case
+3 sheets of paper
+2 pants
+2 shirts
+bedroll
+grappling hook
+50' rope
+small tent
+
+Loot
+=========
+Crystaline jar
+
+
+Spells:
+Memorized
+=========
+4 1st - enlarge, magic missile
+4 2nd - flaming sphere, invisibility, melf's acid arrow
+3 3rd - lightning bolt, hold person
+2 4th - ice storm, polymorph self
+2 5th - monster summoning iii
+65% chance | 11 per level
+
+Spellbook
+=========
+1st
+---------
+magic missile
+read magic
+identify
+detect magic
+charm person
+enlarge
+unseen servant
+shocking grasp
+comprehend languages
+mending
+affect normal fires
+
+-write
+-grease
+-shield
+-burning hands
+
+2nd
+---------
+invisibility
+melf's acid arrow
+stinking cloud
+detect evil
+flaming sphere
+continual light
+
+3rd
+---------
+dispel magic
+lightning bolt
+monster summoning 1
+protection from normal missiles
+infravision
+blink
+hold person
+
+-phantasmal force
+-fireball
+-slow
+-water breathing
+
+4th
+---------
+ice storm
+wall of ice
+polymorph self
+
+-remove curse
+-fear
+-dimension door
+-charm monster
+-polymorph other
+-wall of fire
+
+5th
+---------
+monster summoning iii
+transmute rock to mud
+conjure elemental
+
+
+Experience
+=========
+Melf's acid arrow magic missile to kill large flying lion
+Rock to mud
+detect magic
+slime creature
+
+

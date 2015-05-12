@@ -1,0 +1,141 @@
+Name: Theodore	Age: 19 from jethred
+Alignment: Neutral Good
+Race: Human Level: 11 Xp: 220,001 THACO: 16
+Height: 6' Weight: 150 lb
+
+Str:12 Weight allowance:45,Max press:140,Open doors:7,Bend bars/lift gates:4%
+Int:12 Languages: 3
+Dex:19 Reaction adj:+3,Missile attack adj:+3,Defensive adj:-4
+Con:16 Hp adj:+2,System shock:95%,Resurrection survival:96%,Poison save:0
+Wis:12 Magical defense adj:0
+Chr:10 Maximum henchmen: 4
+
+HP: 84 | 84
+
+Weapon Proficiencies: (4) Short Sword, Sling, Short Bow (?),
+Non weapon proficiencies: (8) Gaming, Set snares, Fishing, Swimming, Tailor, Cooking, Riding ( land based ), 
+
+			None:	Elven chain:	Studded or Padded Leather:
+Pick pockets:      40	+5	-20		-30
+Open locks:        50		-5		-10
+Find/Remove traps: 55		-5		-10
+Move silently:     90	+10	-10		-20
+Hide in shadows:   90	+5	-10		-20
+Detect noise:      85		-5		-10
+Climb walls:       90	+10	-20		-30
+Read languages:    55
+
+Equipment: 
+Short sword -	3.5	2'	1'	S	3 fast	1d6	1d8	P
+Dry rations
+Flint & Steel
+Lantern hooded
+Flask of oil x 5
+Hand axe 
+Hammer
+Pitons x 5
+Small sack
+Large sack
+Small metal mirror
+Map/scroll case
+Paper x 3
+Pants
+Shirt
+Bedroll
+Grappling hook
+Sling -		
+Bullets - 	*	1d4+1
+50' Rope
+Small tent
+Fishing line
+Fishing net
+Dwarven rations
+Boots of elven kind
+Leather
+Water skin
+Chalk
+Torches x 5
+Gaming Dice
+4 thurl/1 aloe/1 grain alcohol healing kit
+dwarvish short sword +1 damage
+
+
+xp
+==========================
+fire elementals
+picking chests
+gems
+
+
+==========================
+
+
+
+21 copper
+10 silver
+5 electrum
+18 gold
+1800 gold
+5 platinum elvish
+2 gems
+potion *
+dagger in silver scabbard *
+amulet of dragon 2 ac bonus, 1 hp / 2 rounds, +2 save, amulet of life protection,longevity, true seeing
+ring of dragon 
+short swords / long sword
+
+mull jo et mal
+simimet
+
+jenkin ( noble's daughter )
+
+
+ymareth
+rawden (city we're in)
+
+door opening:
+ymareth, older than the world
+ymareth, older than creation
+ymareth, older than the gods
+open thy gate ymareth
+
+
+
+
+dripping on metal
+pick axes on stone
+metal scraping on stone
+spark of light from city
+
+alred mountainheart soulstone
+
+
+
+==========
+burning hands
+comprehend languages
+mount
+shield
+wizard mark
+flaming sphere
+pyrotechnics
+explosive runes
+fireball
+flame arrow
+affect normal fires
+stinking cloud
+lightning bolt
+melf's minute meteor
+fear
+fire charm
+fire shield
+fire trap
+wall of fire
+wall of ice
+cloud kill
+cone of cold
+legend lore
+delayed blast fireball
+true name
+incendary cloud
+identify
