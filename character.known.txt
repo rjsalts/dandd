@@ -1,4 +1,4 @@
-Name: Helga Age: 20 from Vestland of the house Ottar, king's neice, father is Jarl Eric Goodmanson, Landersfjord
+Name: Helga Fjarlasdottir Age: 20 from Vestland of the house Ottar, king's neice, father is Jarl Eric Goodmanson, Landersfjord
 Religion: Freya (devout) Alignment: Chaotic Good
 Race: Human Level: 2 XP: 2000 THACO: 19
 Height: 5' 10" Weight: 167 lb Light brown hair, braided
@@ -56,6 +56,26 @@ Maxala - cleric
 
 Arthane Stormchild - centaur
 
+
 Vilarum -
 
+
+Goblins painted with yellow triangle with a red tip
+
+Experience
+----------
+
+goblins * 5
+goblin sole kill
+
+Loot
+----
+4 copper
+goblet ( 350 gp )
+karameikan coins ( crowns ) 200 gp
+longsword ( obviously magical )
+45 copper
+10 silver
+decorated hunting horn ( 60 gp )
+pair of jewelled spurs ( 250 gp each )
 
