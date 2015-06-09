@@ -9,7 +9,7 @@ Int: 16
 Wis: 10
 Chr: 12
 
-HP: 45 | 50 AC: 4
+HP: 42 | 50 AC: 4
 
 Equipment
 =========
@@ -48,11 +48,11 @@ Crystaline jar
 Spells:
 Memorized
 =========
-4 1st - enlarge, magic missile
-4 2nd - flaming sphere, invisibility, melf's acid arrow
-3 3rd - lightning bolt, hold person
-2 4th - ice storm, polymorph self
-2 5th - monster summoning iii
+4 1st - detect magic, magic missile (x3)
+4 2nd - invisibility, flaming sphere, melph's acid arrow (x2)
+3 3rd - lightning bolt, hold person, dispel magic
+2 4th - ice storm, wall of ice
+2 5th - rock to mud, monster summoning iii
 65% chance | 11 per level
 
 Spellbook
@@ -126,5 +126,4 @@ Melf's acid arrow magic missile to kill large flying lion
 Rock to mud
 detect magic
 slime creature
-
-
+3 umber hulks

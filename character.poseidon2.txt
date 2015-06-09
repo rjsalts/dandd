@@ -9,7 +9,7 @@ Int: 13
 Wis: 15
 Chr: 8
 
-HP: 115 | 118 AC: 0
+HP: 82 | 118 AC: 0
 
 Equipment
 =========
@@ -47,4 +47,4 @@ Loot
 Experience
 =========
 Killing both flying lion things
-
+3 umber hulks
