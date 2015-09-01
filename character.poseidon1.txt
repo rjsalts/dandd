@@ -9,7 +9,7 @@ Int: 16
 Wis: 10
 Chr: 12
 
-HP: 42 | 50 AC: 4
+HP: 50 | 50 AC: 4
 
 Equipment
 =========
@@ -24,7 +24,7 @@ Backpack
 1 week of iron rations
 Flint and steel
 Hooded lantern
-2 flasks of oil
+1 flasks of oil
 hand axe
 hammer
 pitons
@@ -43,16 +43,16 @@ small tent
 Loot
 =========
 Crystaline jar
-
+ambrosia flask
 
 Spells:
 Memorized
 =========
 4 1st - detect magic, magic missile (x3)
 4 2nd - invisibility, flaming sphere, melph's acid arrow (x2)
-3 3rd - lightning bolt, hold person, dispel magic
+3 3rd - lightning bolt, hold person
 2 4th - ice storm, wall of ice
-2 5th - rock to mud, monster summoning iii
+2 5th - monster summoning iii
 65% chance | 11 per level
 
 Spellbook
@@ -79,7 +79,7 @@ affect normal fires
 2nd
 ---------
 invisibility
-melf's acid arrow
+melf's acid arrow 1d4+1 2d4 acid x3 rounds
 stinking cloud
 detect evil
 flaming sphere
@@ -127,3 +127,7 @@ Rock to mud
 detect magic
 slime creature
 3 umber hulks
+
+Intentions next week
+====================
+lightning bolt

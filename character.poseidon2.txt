@@ -9,7 +9,7 @@ Int: 13
 Wis: 15
 Chr: 8
 
-HP: 82 | 118 AC: 0
+HP: 102 | 118 AC: 0
 
 Equipment
 =========
@@ -26,7 +26,7 @@ Heavy war horse
 leather barding
 flint and steel
 hooded lantern
-2 flasks of oil
+1 flasks of oil
 hand axe
 hammer
 5 pitons
@@ -42,9 +42,13 @@ small tent
 
 Loot
 =========
-
+ambrosia flask
 
 Experience
 =========
 Killing both flying lion things
 3 umber hulks
+
+Intention next week
+===================
+Attack with bastard sword
