@@ -16,14 +16,15 @@ HP: 14 / 14
 Weapon Proficiencies: (4) Bastard sword, Long bow (spec: +1 attack, pb 30' +2 dmg, shoot at start of round, 5/2 attacks), Dagger
 Non-weapon Proficiencies: (6) Riding (land based), Norderner, Thyatian, Glantri, Animal Handling, Heraldry
 
-Equipment: 9gp - 8sp
+Equipment: 15gp - 8sp
 Plate mail 		( 50 lbs )
 Bastard sword		( 10 lbs, sp 6 , 1d8 dmg s-m, 1d12 dmg l )
 	- 2 hand		( sp 8 , 2d4 dmg s-m, 2d8 dmg l )
 Long bow		( 3 lbs, sp 8 )
 	- flight	( *, 1d6 dmg s-m, 1d6 dmg l )
 	- sheaf		( *, 1d8 dmg s-m, 1d8 dmg l )
-3 Quivers		( 3 lbs, 2 flight 1 sheaf )
+3 Quivers		( 3 lbs, 2 flight 1 sheaf ) 15 sheaf
+2 Quiver silver arrows  ( flight )
 Backpack		( 2 lbs )
 Dry rations x 10	( 10 lbs )
 Small Belt pouch	( 1/2 lb )
@@ -67,6 +68,7 @@ Experience
 
 goblins * 5
 goblin sole kill
+6 gnolls
 
 Loot
 ----
