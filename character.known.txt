@@ -1,4 +1,4 @@
-Name: Helga Fjarlasdottir Age: 20 from Vestland of the house Ottar, king's neice, father is Jarl Eric Goodmanson, Landersfjord
+Name: Helga Fjarlasdottir Age: 20 from Vestland of the house Ottar, king's niece, father is Jarl Eric Goodmanson, Landersfjord
 Religion: Freya (devout) Alignment: Chaotic Good
 Race: Human Level: 2 XP: 2000 THACO: 19
 Height: 5' 10" Weight: 167 lb Light brown hair, braided
@@ -69,6 +69,10 @@ Experience
 goblins * 5
 goblin sole kill
 6 gnolls
+chameleon
+4 ghouls
+8 centipedes
+3 baboons
 
 Loot
 ----
