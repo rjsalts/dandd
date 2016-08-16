@@ -1,22 +1,23 @@
 Name: Helga Fjarlasdottir Age: 20 from Vestland of the house Ottar, king's niece, father is Jarl Eric Goodmanson, Landersfjord
 Religion: Freya (devout) Alignment: Chaotic Good
-Race: Human Level: 2 XP: 2000 THACO: 19
+Race: Human Level: 3 XP: 4190 THACO: 17
 Height: 5' 10" Weight: 167 lb Light brown hair, braided
 Class: Fighter -1 AC bonus AC: 2
 
-Str: 15
+Str: 16 +1 damage 70lb weight allowance
 Int: 13 
 Dex: 10
 Con: 13
 Wis: 17 +3 magical defense adj
 Chr: 12
 
-HP: 14 / 14
+HP: 19 / 20
 
 Weapon Proficiencies: (4) Bastard sword, Long bow (spec: +1 attack, pb 30' +2 dmg, shoot at start of round, 5/2 attacks), Dagger
 Non-weapon Proficiencies: (6) Riding (land based), Norderner, Thyatian, Glantri, Animal Handling, Heraldry
 
 Equipment: 15gp - 8sp
+Long sword ( rust proof )
 Plate mail 		( 50 lbs )
 Bastard sword		( 10 lbs, sp 6 , 1d8 dmg s-m, 1d12 dmg l )
 	- 2 hand		( sp 8 , 2d4 dmg s-m, 2d8 dmg l )
@@ -59,9 +60,13 @@ Arthane Stormchild - centaur
 
 
 Vilarum -
-
+Lady Eliah( 2ic at castellan )
 
 Goblins painted with yellow triangle with a red tip
+
+Goblins with white hairy arm on shield
+
+Goblins with hills on a shield
 
 Experience
 ----------
@@ -73,6 +78,10 @@ chameleon
 4 ghouls
 8 centipedes
 3 baboons
+rats
+6 goblins
+4 goblins
+poisoned
 
 Loot
 ----
@@ -84,4 +93,15 @@ longsword ( obviously magical )
 10 silver
 decorated hunting horn ( 60 gp )
 pair of jewelled spurs ( 250 gp each )
+light weight shield
+goblin shield
+scroll
+elven magical arrow
+
+11 gp
+8 gp
+7 gp
+8 gp
+high quality long bow
+quiver - 10 sheath arrows
 
