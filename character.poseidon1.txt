@@ -48,10 +48,10 @@ ambrosia flask
 Spells:
 Memorized
 =========
-4 1st - detect magic, magic missile (x3)
-4 2nd - invisibility, flaming sphere, melph's acid arrow (x2)
-3 3rd - lightning bolt, hold person
-2 4th - ice storm, wall of ice
+4 1st - magic missile (x3)
+4 2nd - invisibility, melph's acid arrow (x2)
+3 3rd - lightning bolt
+2 4th - ice storm
 2 5th - monster summoning iii
 65% chance | 11 per level
 

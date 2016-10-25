@@ -112,6 +112,23 @@ quiver - 10 sheath arrows
 10,100 gp
 brooch ( 4k gp)
 
+chain 30gp
+7 ep
+200cp
+157sp
+76ep
+139gp
+grey soft boots
+50gp
+12 gems @ 50gp
+25gp
+17ep
+12sp
+11ep
+14gp
+giant greataxe
+boots of levitation
+
 
 ring of protection +1
 ring of protection +1

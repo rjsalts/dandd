@@ -9,7 +9,7 @@ Int: 13
 Wis: 15
 Chr: 8
 
-HP: 102 | 118 AC: 0
+HP: 118 | 118 AC: 0
 
 Equipment
 =========
@@ -42,12 +42,12 @@ small tent
 
 Loot
 =========
-ambrosia flask
 
 Experience
 =========
 Killing both flying lion things
 3 umber hulks
+alien priests
 
 Intention next week
 ===================
