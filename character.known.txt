@@ -11,13 +11,13 @@ Con: 13
 Wis: 17 +3 magical defense adj
 Chr: 12
 
-HP: 19 / 20
+HP: 51/51
 
-Weapon Proficiencies: (4) Bastard sword, Long bow (spec: +1 attack, pb 30' +2 dmg, shoot at start of round, 5/2 attacks), Dagger
-Non-weapon Proficiencies: (6) Riding (land based), Norderner, Thyatian, Glantri, Animal Handling, Heraldry
+Weapon Proficiencies: (4) Bastard sword (skilled), Long bow (spec: +1 attack, pb 30' +2 dmg, shoot at start of round, 5/2 attacks), Dagger
+Non-weapon Proficiencies: (6) Riding (land based), Norderner, Thyatian, Glantri, Animal Handling, Heraldry, Armour proficiency ( platemail ), Blind fighting (still training)
 
 Equipment: 15gp - 8sp
-Long sword ( rust proof )
+Long sword ( rust proof ) 
 Plate mail 		( 50 lbs )
 Bastard sword		( 10 lbs, sp 6 , 1d8 dmg s-m, 1d12 dmg l )
 	- 2 hand		( sp 8 , 2d4 dmg s-m, 2d8 dmg l )
@@ -60,7 +60,7 @@ Arthane Stormchild - centaur
 
 
 Vilarum -
-Lady Eliah( 2ic at castellan )
+Lady Atelliah( 2ic at castellan )
 
 Goblins painted with yellow triangle with a red tip
 
@@ -69,6 +69,18 @@ Goblins with white hairy arm on shield
 Goblins with hills on a shield
 
 fabio - mayor of novaci
+
+gap to ylaruam
+
+bartsoluth's cave/hggruek
+
+chaos hoarde
+
+horned heads
+
+bloody grey rats (kobolds) follow curdlemac (the shiny one)
+
+
 
 Experience
 ----------
@@ -100,6 +112,7 @@ light weight shield
 goblin shield
 scroll
 elven magical arrow
+4 horseshoes ( extra 100lb)
 
 11 gp
 8 gp
@@ -140,3 +153,51 @@ oglaron's gauntlets ( str 18 +1 +2 )
 fumbler's ring ( dex +1)
 lamp of long burning
 mug of the tavern ( points to nearest tavern )
+
+{
+bracers
+mask
+flash stone
+} emily
+
+chains
+dishes
+clasp
+plate mail
+robes
+80gp
+20pp
+
+44sp
+gold chain ( 100gp) x3
+gem (500p)
+30pp
+30ep
+30sp
+30gp
+30cp
+jewelled clasp (300gp)
+scroll ( hold person, silence priest scroll )
+expensive looking mace (most likely magic)
+Wendl's platemail (+1)
+
+29pp
+3 * 50gp gems
+pouch with key
+maul engraved with runes
+29 gp
+gold earrings 100 gp
+8 * singed crossbows
+17 gp
+19 sp
+24 gp
+silk
+alabaster and ivory statue of owl 300 gp value
+hand axe
+2 * potion
+1462 sp
+metal fan
+jug of catnip
+17 gp
+6 * silk pieces
+
