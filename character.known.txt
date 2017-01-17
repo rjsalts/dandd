@@ -24,7 +24,7 @@ Bastard sword		( 10 lbs, sp 6 , 1d8 dmg s-m, 1d12 dmg l )
 Long bow		( 3 lbs, sp 8 )
 	- flight	( *, 1d6 dmg s-m, 1d6 dmg l )
 	- sheaf		( *, 1d8 dmg s-m, 1d8 dmg l )
-3 Quivers		( 3 lbs, 2 flight 1 sheaf ) 15 sheaf
+3 Quivers		( 3 lbs, 2 flight 1 sheaf ) 40 flight 9 sheaf
 2 Quiver silver arrows  ( flight )
 Backpack		( 2 lbs )
 Dry rations x 10	( 10 lbs )
@@ -80,7 +80,8 @@ horned heads
 
 bloody grey rats (kobolds) follow curdlemac (the shiny one)
 
-
+karl & anton
+heinreich & adriana
 
 Experience
 ----------
@@ -184,7 +185,7 @@ Wendl's platemail (+1)
 29pp
 3 * 50gp gems
 pouch with key
-maul engraved with runes
+maul engraved with runes +1
 29 gp
 gold earrings 100 gp
 8 * singed crossbows
@@ -193,11 +194,19 @@ gold earrings 100 gp
 24 gp
 silk
 alabaster and ivory statue of owl 300 gp value
-hand axe
-2 * potion
+hand axe (+1)
 1462 sp
-metal fan
-jug of catnip
+metal fan ( fan of wind )
+jug of catnip ( jug of purification )
 17 gp
-6 * silk pieces
-
+6 * silk pieces ( 20gp each )
+12 beetle glands
+minotaur spear ( +1 )
+200 gp
+23gp
+bracelet (tree guy) ( of thoughtfullness )
+circlet (floating guy) ( of recall )
+gold chain (chief) (1200gp value)
+earring (chief) (savoure fair )
+scimitar (chief) (+2)
+everhot teakettle
